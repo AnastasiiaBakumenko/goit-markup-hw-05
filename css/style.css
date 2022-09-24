@@ -70,8 +70,8 @@ text-decoration: none;
     position: fixed;
     cursor: pointer;
     border: none;
-    top: 0;
-    right: 0;
+    top: 8px;
+    right: 8px;
     background-color: #fff;
 }
 .modal-img{

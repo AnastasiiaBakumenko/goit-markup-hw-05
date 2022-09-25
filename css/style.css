@@ -692,7 +692,8 @@ padding: 30px 10px;
 
 /*Clients*/
 .clients-title{
-    font-weight: 42px;
+    font-weight: 700;
+    font-size: 36px;
     text-align: center;
     padding-bottom: 50px;
 }
